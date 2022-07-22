@@ -1,17 +1,15 @@
-
 body {
     margin:auto 0;
     font-family: Arial;
 }
 .zone {
-    cursor:unset;
+    cursor: unset;
     color:#FFF;
     font-size:2em;
     border-radius:4px;
     border:1px solid #bbb;
     transition: all 0.3s linear;
 }
-
 .box:hover {
     -webkit-tranform: rotate(7deg);
     -moz-transform: rotate(7deg);
